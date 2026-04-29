@@ -1,12 +1,12 @@
 {
-  "export_job_id": "56ce49d3-79fc-48a4-9e69-1186a763afca",
+  "export_job_id": "bcace87b-0faa-4b2b-85f6-889c68933450",
   "id_short": 415293,
-  "published_at": "2026-04-22T07:28:35Z",
+  "published_at": "2026-04-29T19:08:12Z",
   "repo_name": "top-30-active-restaurant-review-whales-in-indianapolis-carmel-greenwood-in-metro-a-sample-415293",
   "sample_asset_name": "beamstation_415293_restaurants-us-indianapoliscarmelgreenwoodin_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/415293/beamstation_415293_restaurants-us-indianapoliscarmelgreenwoodin_SAMPLE_DIST.csv",
-  "sample_records": 80,
-  "sample_sha256": "70abdfc73632e8ae64167e3a9ab10ba8534ed40df314e1b8129ccb13c31557e3",
-  "sample_size_bytes": 338248,
-  "total_records": 809
+  "sample_records": 141,
+  "sample_sha256": "e576e980ac398a3800099db18b1815629cf1aa9445a25e69c3e32b2386cba981",
+  "sample_size_bytes": 564244,
+  "total_records": 1418
 }
